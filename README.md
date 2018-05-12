@@ -16,4 +16,4 @@ Open a new project in terminal by "prod-init Jericho_Library" *Note that Jericho
 
 After this drag and drop the src files and then go to the terminal and run "react-native run-ios"
 
-Please Watch this youtube link to see the App in action in iOS: 
+Please Watch this youtube link to see the App in action in iOS: https://youtu.be/iQSkOwJA9uA
